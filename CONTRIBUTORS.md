@@ -4916,6 +4916,8 @@
 
 - [@Michailb](https://github.com/Mi-Br)
 
+- [@Hugovitorio](https://github.com/Hugovitorio)
+
 - [@Michalbudzik](https://github.com/michalbudzik)
 
 - [@Michalostrodicky](https://github.com/michal-ostrodicky)
@@ -9219,4 +9221,3 @@ https://github.com/BiplabMazumder2024
 
 - [@amanmhmmdshb](https://github.com/amanmhmmdshb)
 
-- [@Hugovitorio](https://github.com/Hugovitorio)
